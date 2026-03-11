@@ -1,0 +1,2 @@
+This project demonstrates Git Version Control operations.
+Created for FSAD Skill Experiment 1.
