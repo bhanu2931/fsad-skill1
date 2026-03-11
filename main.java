@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("FSAD Skill 1 Git Version Control Demo");
+        System.out.println("Bug fixed version of program");
     }
 }
